@@ -25,7 +25,7 @@ if (aStory == 'a') {
 }
 
 if (aStory == 'b') {
-    document.write('Ameilia ' + aPast + ' through the ' + anAdjective + ' ' + aColour + ' nebula escaping the space ' + aCreature.'');
+    document.write('Ameilia ' + aPast + ' through the ' + anAdjective + ' ' + aColour + ' nebula escaping the space ' + aCreature '.');
 }
 
 if (aStory == 'c') {
