@@ -8,7 +8,7 @@ var aPast;
 
 var aStory;
 
-alert("Let's make a story together!");
+alert("Let’s make a story together!");
 
 aColour = prompt('A colour (orange, indigo, etc.)');
 
